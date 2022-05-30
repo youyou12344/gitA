@@ -2,3 +2,7 @@
 	path = gitB
 	url = git@github.com:youyou12344/gitB.git
 	branch = master
+[submodule "gitC"]
+	path = gitC
+	url = git@github.com:youyou12344/gitC.git
+	branch = master
